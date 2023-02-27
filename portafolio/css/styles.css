@@ -25,7 +25,7 @@ html{
     align-items: center;
     padding: 15px 20px;
 }
-.container-header header .logo a{
+.container-header header .logo a {
     font-family: 'rigteous';
     font-size: 36px;
     color: #1cb698;
@@ -35,7 +35,7 @@ html{
     display: flex;
     list-style: none;
 }
-.container-header header nav ul li a{
+.container-header header nav ul li a {
     text-align: none;
     color: azure;
     margin: 0 15px;
@@ -43,10 +43,10 @@ html{
     transition: .5s;
     text-decoration: none;
 }
-.container-header header nav ul li a:hover{
+.container-header header nav ul li a:hover {
     color: #1cb698;
 }
-.nav-responsive{
+.nav-responsive {
     background-color: #1cb698;
     color: #fff;
     padding: 5px 10px;
@@ -54,7 +54,7 @@ html{
     cursor: pointer;
     display: none;
 }
-.inicio{
+.inicio {
     background: linear-gradient(to top, rgba(30,35,38.8), rgba(30,35,38,1)), url(/portafolio/img/fondo2.jpeg) no-repeat center center;
     background-size: cover;
     height: 100vh;
@@ -62,7 +62,7 @@ html{
     display: flex;
     align-items: center;
 }
-.inicio .container-banner{
+.inicio .container-banner {
     padding: 20px;
     background: #1e2326;
     max-width: 350px;
@@ -70,24 +70,24 @@ html{
     text-align: center;
     border-radius: 40px;
 }
-.inicio .container-banner img{
+.inicio .container-banner img {
     margin-top: 40px;
     border: 10px solid #1cb698;
     display: block;
     width: 80%;
     margin: auto;
-    border-radius: 100%;
+    border-radius: 50%;
 }
-.inicio .container-banner h1{
+.inicio .container-banner h1 { 
     margin-top: 40px;
     font-size: 42px;
     font-family: 'righteous';
 }
-.inicio .container-banner h2{
+.inicio .container-banner h2 {
     font-size: 15px;
     font-weight: normal;
 }
-.inicio .container-banner .redes a{
+.inicio .container-banner .redes a {
     color: #fff;
     display: inline-block;
     text-decoration: none;
@@ -100,6 +100,6 @@ html{
     font-size: 20px;
     transition: .3s;
 }
-.inicio .container-banner .redes a:hover{
+.inicio .container-banner .redes a:hover {
     background-color: #1cb698;
 }
