@@ -219,3 +219,20 @@ z-index: 10;
     text-align: center;
     padding: 20px 0;
 }
+.skills .fila{
+    display: flex;
+}
+.skills .fila .col{
+    width: 50%;
+    padding: 0 20px;
+}
+.skills .fila .col h3{
+    font-size: 28px;
+    font-family: 'Righteous';
+    margin-bottom: 25px;
+}
+.skills .skills > span{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
