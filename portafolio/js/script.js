@@ -8,7 +8,7 @@ function mostrarOcultarMenu(){
         menuVisible = true;
     }
 }
-function seleleccionar(){
+function seleccionar(){
     document.getElementById("nav").classList = "";
     menuVisible= false;
 }
